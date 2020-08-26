@@ -12,5 +12,9 @@ hey bro whats up
 
 i am kauhsal kishor
 
-from it branch.
 
+from it branch.
+<<<<<<< HEA
+
+=======
+>>>>>>> 17ac3625a01ec80bcc0f651a5caf5d04a7cac123
