@@ -7,3 +7,7 @@ conflict problem
 i an going to resolve merge conflict problem
 
 you do need no worry.
+
+hey bro whats up
+
+need update
